@@ -6,6 +6,10 @@ Pegaremos as informações dos portais oficiais da UPM e FCI, assim como as rede
 
 
 Imagens do protótipo inicial desenvolvido.
+<img width="1845" height="825" alt="image" src="https://github.com/user-attachments/assets/ed3d2ee6-7434-415f-8848-bbd3006c022e" />
+<img width="1846" height="827" alt="image" src="https://github.com/user-attachments/assets/2a95b979-3020-4a34-b348-8beeddc67616" />
+
+
 
 
 Uma explicação sobre o caráter extensionista.
