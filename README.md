@@ -11,6 +11,10 @@ Imagens do protótipo inicial desenvolvido.
 <img width="1845" height="825" alt="image" src="https://github.com/user-attachments/assets/ed3d2ee6-7434-415f-8848-bbd3006c022e" />
 <img width="1846" height="827" alt="image" src="https://github.com/user-attachments/assets/2a95b979-3020-4a34-b348-8beeddc67616" />
 
+Mobile
+<img width="1844" height="826" alt="image" src="https://github.com/user-attachments/assets/b64caf13-1381-4fd4-a1c5-322c6831ae61" />
+<img width="1848" height="826" alt="image" src="https://github.com/user-attachments/assets/a7bd4761-4427-4b0c-86ba-5ce312eb1cd2" />
+
 
 
 
