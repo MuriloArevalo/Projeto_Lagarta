@@ -1,7 +1,8 @@
 # Calendario de eventos FCI 
 Uma explicação inicial sobre o processo de ideação.
 
-O projeto se dá sobre uma necessidade dos alunos da Faculdade de Computação e Informática da Universidade Presbiteriana Mackenzie de estarem amplamente conectados com todos os eventos que a faculdade promove. Dessa forma, tivemos a ideia de montar um site que mostre todos os eventos que acontecem no nosso prédio. O site tem como intuito informar os alunos da FCI sobre cursos, palestras, eventos e também todo tipo de atividade que conte para horas complementares. 
+O projeto se dá sobre uma necessidade dos alunos da Faculdade de Computação e Informática da Universidade Presbiteriana Mackenzie de estarem amplamente conectados com todos os eventos que a faculdade promove. Dessa forma, tivemos a ideia de montar um site que mostre todos os eventos que acontecem no nosso prédio. O site tem como intuito informar os alunos da FCI sobre cursos, palestras, eventos e também todo tipo de atividade que conte para horas complementares. Pegaremos as informações dos portais oficiais da UPM e FCI, assim como as redes sociais.
+A proposta se deu após longos debates sobre qual necessidade iríamos tentar solucionar e optamos sobre fazer algo que nos introduzisse mais ao sistema acadêmico da faculdade.  
 Pegaremos as informações dos portais oficiais da UPM e FCI, assim como as redes sociais.
 
 
